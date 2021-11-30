@@ -31,4 +31,9 @@
 * Have the latest version of browser installed  
 * Click on this <a href = "https://artgala.herokuapp.com/">link</a> to view the gallery. 
  
- 
+ ### To contribute to ArtGala web application:  
+ #### Clone the Repo  
+ * Create an account on Github
+* Fork the repository from Github with this <a href = "https://github.com/simonkairu/GalaArt.git" >link </a>
+* Clone the repository
+* Open the project cloned project
