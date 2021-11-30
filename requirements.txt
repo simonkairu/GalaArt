@@ -2,7 +2,6 @@ asgiref==3.4.0
 beautifulsoup4==4.10.0
 certifi==2021.5.30
 cloudinary==1.26.0
-decouple==0.0.7
 dj-database-url==0.5.0
 Django==3.2.4
 django-bootstrap3==15.0.0
