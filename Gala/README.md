@@ -56,4 +56,8 @@ Create .env file and paste paste the following filling where appropriate:
     DBNAME = 'gallery'
     USER = '<Username>'
     PASSWORD = '<password>'
-    DEBUG = True    
+    DEBUG = True  
+
+#### Run initial Migration
+    python3.8 manage.py makemigrations gallery
+    python3.8 manage.py migrate      
