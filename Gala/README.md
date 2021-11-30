@@ -37,3 +37,7 @@
 * Fork the repository from Github with this <a href = "https://github.com/simonkairu/GalaArt.git" >link </a>
 * Clone the repository
 * Open the project cloned project
+
+####  Activate virtual environment
+Activate virtual environment using python3.6 as default handler
+    `virtualenv -p /usr/bin/python3.6 venv && source venv/bin/activate`
