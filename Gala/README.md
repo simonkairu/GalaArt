@@ -67,4 +67,11 @@ Create .env file and paste paste the following filling where appropriate:
     Open terminal on localhost:8000    
 
 ## Known Bugs
-There are no known bugs so far     
+There are no known bugs so far  
+
+## Technologies Used  
+* Python v3.8  
+* HTML
+* Bootstrap
+* Django  
+* Postgres  
