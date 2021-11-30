@@ -14,6 +14,7 @@
 
 </div>
 <div class="container">
+    <div class="row">
     {% for img in image%}
     <div class="col-md-3">
         <a href="#{{img.id}}" data-toggle="modal" data-target="#{{img.id}}">
@@ -57,5 +58,6 @@
         </div>
     </div>
     {%endfor%}
+</div>
 </div>
 {% endblock %}
