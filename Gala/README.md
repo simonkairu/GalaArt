@@ -80,3 +80,4 @@ There are no known bugs so far
 In case of any problem while interacting with the web application, reach out to me at simon.mureithi@student.moringaschool.com
 
 ### License.
+MIT Copyright (c) 2021 **[MITlicense](LICENSE)**
