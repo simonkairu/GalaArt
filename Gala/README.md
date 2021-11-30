@@ -25,3 +25,10 @@
   * Search for different categories of photos  
   * Copy a link to the photo to share with my friends  
   * View photos based on the location they were taken 
+
+  ## Setup/Installation Requirements  
+ ### To interact with the ArtGala web application:   
+* Have the latest version of browser installed  
+* Click on this <a href = "https://artgala.herokuapp.com/">link</a> to view the gallery. 
+ 
+ 
