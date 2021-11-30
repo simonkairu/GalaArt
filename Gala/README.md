@@ -18,3 +18,10 @@
 | View pictures by location | Click on location of interest in menu bar | Displays photographs of chosen location |
 | Copy Link to clipboard | Click on copy link button in the modal class | Copies link to clipboard |
 | View Single picture | Click on photo of interest then click on image | Displays a single page with details of the picture and related images |
+
+## Features   
+ As a user of ArtGala web application, you will be able to:  
+  * View different photos that interest me  
+  * Search for different categories of photos  
+  * Copy a link to the photo to share with my friends  
+  * View photos based on the location they were taken 
