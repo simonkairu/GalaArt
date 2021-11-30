@@ -75,3 +75,6 @@ There are no known bugs so far
 * Bootstrap
 * Django  
 * Postgres  
+
+## Support and contact details
+In case of any problem while interacting with the web application, reach out to me at simon.mureithi@student.moringaschool.com
